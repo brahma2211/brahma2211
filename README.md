@@ -25,7 +25,7 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <a href="https://github.com/brahma2211/brahma2211">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahma2211&hide=java,html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000&card_width=445"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahma2211&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000&card_width=445"/>
 </a>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ironman2211&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" alt="ironman2211" />
