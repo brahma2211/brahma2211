@@ -1,7 +1,7 @@
 
-<h1 align="center">Hellow everyOne I'm Brahma</h1>
+<h2 align="left">Hi ' I am Brahma</h2>
 
-<h4 align="center">📧  beherabrahmananda77@gmail.com
+<h4 align="left"> beherabrahmananda77@gmail.com
 </h4>
 
 ## <h3 align="left">Let's Connect:</h3>
@@ -23,15 +23,3 @@
 ## <h3 align="start">🎨 DESIGN  & OTHERS</h3></h3>
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
-<h3 align="left">📊 GitHub Stats</h3>
-<a href="https://github.com/brahma2211/brahma2211">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahma2211&hide=html&theme=radical&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&border_color=FF0000&card_width=445"/>
-</a>
-
-<img  src="https://github-readme-stats.vercel.app/api?username=ironman2211&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" alt="ironman2211" />
-<p>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ironman2211&theme=material-palenight&hide_border=true" alt="ironman2211" /></p>
-<br/>
-<img  src="https://github-readme-stats.vercel.app/api?username=ironman2211&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" alt="ironman2211" />
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ko-fi.com/brahma"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="110" alt="ko-fi.com/brahma" /></a></p><br><br>
