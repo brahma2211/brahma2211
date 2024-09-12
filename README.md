@@ -1,4 +1,8 @@
 
+<p align="center">
+ <a href="https://github/ironman2211"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=8&pause=1023&color=36BCF7FF&center=true&repeat=false&width=435&lines=Brahmananda+Behera" alt="Typing SVG" /></a>
+</p>
+
 <h2 align="left">Hi ' I am Brahma</h2>
 
 <h4 align="left"> beherabrahmananda77@gmail.com
